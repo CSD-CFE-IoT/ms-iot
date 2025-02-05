@@ -1,0 +1,12 @@
+{
+  "deviceTargetingId": "2000",
+  "packageId": "c3c4a218-ff63-4ecc-a8ac-e33df160a976",
+  "osVersion": "10.0.1.0",
+  "osRetailContentId": "b661eb03-9af0-43bd-add5-8a5e63de88de",
+  "osTestContentId": "c36abb2a-f593-49b3-83df-a79b825fe39c",
+  "ocpVersion": "10.0.1.0",
+  "ocpContentId": "916d1ad1-37a5-4070-883f-4b71ab97270d",
+  "deviceRing": 1,
+  "updatedDateTime": "2017-09-18T20:21:44.4528619Z",
+  "state":0
+}
