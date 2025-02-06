@@ -7,7 +7,7 @@
       "PreCommands": [],
       "Payloads": [
         {
-          "Source": "https://iottools.blob.core.windows.net/tools/rs5/x86/Limpet.exe",
+          "Source": "https://github.com/CSD-CFE-IoT/ms-iot/raw/refs/heads/main/iotcore/tools/rs5/x86/Limpet.exe",
           "Target": "c:\\windows\\system32\\Limpet.exe"
         }
       ],
@@ -17,7 +17,7 @@
       "PreCommands": [],
       "Payloads": [
         {
-          "Source": "https://iottools.blob.core.windows.net/tools/rs5/arm/Limpet.exe",
+          "Source": "https://github.com/CSD-CFE-IoT/ms-iot/raw/refs/heads/main/iotcore/tools/rs5/arm/Limpet.exe",
           "Target": "c:\\windows\\system32\\Limpet.exe"
         }
       ],
@@ -27,7 +27,7 @@
       "PreCommands": [],
       "Payloads": [
         {
-          "Source": "https://iottools.blob.core.windows.net/tools/rs5/x64/Limpet.exe",
+          "Source": "https://github.com/CSD-CFE-IoT/ms-iot/raw/refs/heads/main/iotcore/tools/rs5/x64/Limpet.exe",
           "Target": "c:\\windows\\system32\\Limpet.exe"
         }
       ],
@@ -37,7 +37,7 @@
       "PreCommands": [],
       "Payloads": [
         {
-          "Source": "https://iottools.blob.core.windows.net/tools/rs5/arm64/Limpet.exe",
+          "Source": "https://github.com/CSD-CFE-IoT/ms-iot/raw/refs/heads/main/iotcore/tools/rs5/arm64/Limpet.exe",
           "Target": "c:\\windows\\system32\\Limpet.exe"
         }
       ],
